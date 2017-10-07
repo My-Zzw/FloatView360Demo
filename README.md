@@ -4,6 +4,6 @@
 悬浮球：移动时，变换成另外一个图片。松开时，自动附着在一侧。点击的时候出现菜单栏。 
 菜单栏：菜单栏里面的进度球，双击时，水不断被注入，并且水面越来越平缓。单击时，水面震荡，最后平缓静止。
 
-![image](http://github.com/My-Zzw/FloatView360Demo/img/2017-10-07_205213.png)
+![image](http://github.com/My-Zzw/FloatView360Demo/FloatView360Demo/img/2017-10-07_205213.png)
 
 详细可以前往CSDN：
